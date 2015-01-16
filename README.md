@@ -1,2 +1,4 @@
 # Website
-Files for public website
+##Welcome!##
+
+These are the files for my public website. Feel free to comment!
